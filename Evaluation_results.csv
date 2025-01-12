@@ -1,0 +1,100 @@
+Question,Correct Answer,Generated Answer,BLEU Score,ROUGE Score,Complexity
+Which department prepared the document?,Department of Economic Affairs,Department of Financial Services,0.638943104,0.5,Easy
+Which year did India's economy grow by 8.2%?,2024,FY2024,0,0,Easy
+Who is the Chief Economic Advisor?,V. Anantha Nageswaran,Anantha Nageswaran,0.60653066,0.8,Easy
+What does MSME stand for?,"Micro, Small, Medium Enterprises","Micro, Small, Medium Enterprises",1,1,Easy
+Which sector contributes the most to India’s GVA in FY24?,Services,Services,1,1,Easy
+Which ministry publishes the Economic Survey?,Finance,Department of financ Affairs,0,0,Easy
+What is the focus of Chapter 3 in the survey?,Inflation,agriculture industry infras ssment of the various sectors,0,0,Easy
+What is the primary focus of PM-KISAN?,Farmers,farmer,0,1,Easy
+What is the inflation rate for FY24?,Headline inflation rate is largely under control,39p6phfu Prices and Inflation in FY26,0,0.153846154,Easy
+What is the trade deficit trend in FY24 compared to FY23?,Lower in FY24 than in FY23,lower,0,0.285714286,Easy
+What is India's current account deficit in FY24?,Around 0.7% of GDP,0.7 of GDP,0.54444606,0.888888889,Easy
+What is the full form of GFCF?,Gross Fixed Capital Formation,Gross Fixed Capital Formation,1,1,Easy
+Which initiative focuses on digital learning?,Vidyanjali,PM eVIDYA,0,0,Easy
+What type of inflation is primarily under control?,Retail,headline,0,0,Easy
+Which sector is a major driver of rural employment?,Agriculture,agricultural economy,0,0.666666667,Easy
+What is India's major export sector?,Services,services,0,1,Easy
+What is the main focus of the NEP 2020?,Education,goals and policies into action,0,0,Easy
+Which ministry oversees India’s banking reforms?,Finance,Monetary Management and Financial Intermediation,0,0,Easy
+What is India’s primary renewable energy source?,Solar,fossilfuel,0,0,Easy
+What percentage of GVA comes from agriculture in FY24?,17.7,17.7 per cent 27.6 per cent,0.638943104,0.4,Easy
+What type of investment drives infrastructure growth?,Public,public,0,1,Easy
+Which year marked record housing sales since 2013?,2023,2023,1,1,Easy
+Which organization provides monetary policy for India?,RBI,Reserve Bank of India RBI,0.668740305,0.333333333,Easy
+What is the fiscal deficit as a percentage of GDP in FY24?,1.6,4.5 per cent,0,0,Easy
+Which act governs apprenticeships?,Apprenticeship Act,Apprenticeship Act,1,1,Easy
+What is the current account deficit percentage in FY24?,0.7,0.7 of GDP,0.759835686,0.666666667,Easy
+Which region leads in India’s climate initiatives?,Himalayas,INDIAS,0,0,Easy
+What is India's major employment type?,Informal,EMPLOYMENT,0,0,Easy
+What is the CAGR of health expenditure in FY24?,4.5,15.8 per cent,0,0,Easy
+What is India’s dominant mode of power generation?,Coal,fossilfuel,0,0,Easy
+Which sector leads in job creation post-pandemic?,Services,two sectors,0,0,Easy
+What is India’s primary mode of agricultural production?,Foodgrains,Indias growth trajectory,0,0,Easy
+Which scheme aims to transform urban infrastructure?,AMRUT,Make in India Digital India Smart City Mission Atal Mission for Rejuvenation,0,0,Easy
+What percentage of GDP is invested in GFCF in FY24?,33 percent,33 per cent,0,1,Easy
+What type of inflation persisted post-Covid?,Core,services,0,0,Easy
+What is the main focus of Chapter 7 in the survey?,Social Welfare,Izzur au,0,0,Easy
+Which ministry implements CSR policies?,Corporate Affairs,Ministry of Corporate Affairs,0.638943104,0.666666667,Easy
+What sector has benefitted most from WPI decline?,Manufacturing,external events,0,0,Easy
+Which state showed the highest CSR spending in FY24?,Maharashtra,Maharashtra Karnataka Gujarat Tamil Nadu Uttar Pradesh,0.614788153,0.25,Easy
+What does PLFS stand for?,Periodic Labour Force Survey,PLFS,0,0,Medium
+Which act promotes employment and job creation?,Labour Codes,freeing workers from the web of legislations,0,0,Medium
+Which year showed the highest private investment growth?,2024,FY24,0,0,Medium
+What drives India’s GDP growth in FY24?,Private Consumption,stable consumpti t on Indias economy,0,0,Medium
+What is the main goal of India’s PLI scheme?,Manufacturing Growth,manufacturing in complex and niche sectors,0,0.25,Medium
+What drives India’s services export growth?,Global Capability Centres,increased exports from China,0,0,Medium
+What percentage of GDP is public investment in FY24?,12.5%,9.5 per cent,0,0.333333333,Medium
+What is India’s strategy for renewable energy?,Solar Expansion,cleaner energy sources,0,0,Medium
+What is the key to sustained high growth rates for India?,"A grand alliance of governments, private sector, and academia.",barriers and hurdles,0.102832578,0.166666667,Medium
+What is the focus of the New Education Policy 2020?,Freeing India’s higher education from regulatory oversight to market oversight.,areas where it has to,0.24601581,0.125,Medium
+What is the headline of BusinessLine about corporate profit in FY24?,Corporate profit for the Nifty-500 universe was up 30%.,newspaper headlines told us that the corporate profitstoGDP ratio,0.577350269,0.210526316,Medium
+What is the cumulative growth of private sector GFCF from FY19 to FY23?,52% in current prices,35,0,0,Medium
+What is the role of the private sector in job creation?,It is the main driver of job creation.,job creation happens mainly in the private sector,0.707106781,0.375,Medium
+Which act governs apprenticeships?,Apprenticeship Act,Apprenticeship Act,1,1,Medium
+What is the focus of India’s energy transition?,Battery Storage,meeting energy demands,0,0,Medium
+What type of inflation persisted post-Covid?,Core,services,0,0,Medium
+Which ministry oversees financial inclusion?,Finance,MFIs,0,0,Medium
+What is India’s fiscal deficit in FY24?,1.6%,5.6 per cent of GDP,0,0.25,Medium
+What percentage of India’s exports come from services?,41%,0.5 per cent,0,0,Medium
+What type of rural employment drives growth?,MGNREGA,youth,0,0,Medium
+Which sector led housing growth in FY23?,Residential Real Estate,banks,0,0,Medium
+What is the CAGR for rural wages in FY24?,3.2%,above5 per cent,0,0,Medium
+What type of inflation is primarily under control?,Retail,headline,0,0,Medium
+What is the government’s urban welfare scheme?,AMRUT,Expen rnment Combined Centre and States,0,0,Medium
+What is the focus of Chapter 7?,Social Development,partsMonetary developments and financial intermediation,0,0.285714286,Medium
+What is India's current account deficit in FY24?,Around 0.7% of GDP,0.7 of GDP,0.54444606,0.888888889,Medium
+What is the purpose of the Economic Survey?,"To inform readers of government policies, their performance, impacts, and success stories.",a lab ately that is all we can and should ask of ourselves,0.626284496,0.16,Medium
+What is the role of public investment in recent years?,It has sustained capital formation.,sustained capital formation,0.390112649,0.75,Medium
+What is the trend in private sector investment in FY24?,It has expanded but at a slower rate.,Public investment has sustained capital formation,0.45782274,0.142857143,Medium
+What is the amount of FDI in FY24?,USD 45.8 billion,USD 71 billion,0.903602004,0.571428571,Medium
+What are India's foreign exchange reserves described as?,Ample,ample Foreign exchange reserves are ample,0,0.285714286,Medium
+What is the fiscal strategy for FY24?,Expansionary,investment facilitation,0,0,Medium
+Which act regulates labor laws?,Labour Codes,Labour Codes,1,1,Medium
+What sector drives rural income growth?,Agriculture,agricultural economy,0,0.666666667,Medium
+What is the goal of AMRUT?,Urban Rejuvenation,Indias 2047,0,0,Medium
+Which act focuses on CSR compliance?,Companies Act,going beyond their obligation,0,0,Medium
+What is India’s primary energy transition focus?,Renewables,cleaner energy sources,0,0,Medium
+What is India’s main agricultural focus?,Crop Diversification,Indias growth trajectory,0,0,Medium
+Which region leads in renewable adoption?,Himalayan States,nk,0,0,Medium
+What drives India’s rural employment growth?,Agriculture,agriculture and allied sectors,0,0.4,Medium
+How did India address inflationary pressures post-Covid?,By employing administrative measures and monetary policy reforms.,eased,0,0,Complex
+What are the key features of Atmanirbhar Bharat Abhiyan?,"Focus on public spending, digitalization, and structural reforms to boost self-reliance.",different sectors of the economy and sections of the populati tate demand,0.537284966,0.083333333,Complex
+What challenges do Indian MSMEs face despite reforms?,"Limited credit access, high compliance costs, and delayed formalization.",Strengthening Indias MSME sector,0,0,Complex
+How does India’s carbon market aim to achieve NDC goals?,Through carbon pricing and market-based emissions trading.,carbon credits sold to foreign entities,0.540853661,0.142857143,Complex
+What factors contribute to India’s agricultural resilience?,"Crop diversification, water conservation, and farmer welfare schemes.",Indian growth story over the last decade has been one of resilience,0,0,Complex
+Explain the economic impact of global geopolitical risks on India.,"Reduced FDI, trade disruptions, and increased fiscal pressures.",Fostering global economic growth,0,0,Complex
+How has digitalization transformed India’s services sector?,"Increased efficiency in trade, transport, and real estate.",citizencentric and transparent governance services,0.367012461,0.153846154,Complex
+What is the significance of NEP 2020 for education?,Promotes vocational training and aligns education with global standards.,a policy document that not only encompasses nities for all by 2030,0,0,Complex
+What is the growth rate of jobs in large factories?,4.0% annually,4.0,0,0.8,Complex
+What is the key to sustained high growth rates for India?,"A grand alliance of governments, private sector, and academia.",barriers and hurdles,0.102832578,0.166666667,Complex
+What is the focus of the New Education Policy 2020?,Freeing India’s higher education from regulatory oversight to market oversight.,areas where it has to,0.24601581,0.125,Complex
+What is the headline of BusinessLine about corporate profit in FY24?,Corporate profit for the Nifty-500 universe was up 30%.,newspaper headlines told us that the corporate profitstoGDP ratio,0.577350269,0.210526316,Complex
+What is the cumulative growth of private sector GFCF from FY19 to FY23?,52% in current prices,35,0,0,Complex
+What is the role of the private sector in job creation?,It is the main driver of job creation.,job creation happens mainly in the private sector,0.707106781,0.375,Complex
+What are India’s strategies for employment post-pandemic?,"Skilling initiatives, rural job schemes, and increased digital adoption.",skills and good health,0.202589485,0.307692308,Complex
+How does the corporate sector contribute to GFCF growth?,"Investing in machinery, infrastructure, and intellectual properties.",fastincreasing share in the additional stock of inancial corporations,0.577350269,0.125,Complex
+What are India’s goals under G20 climate commitments?,"Carbon neutrality, energy transition, and international climate finance.",2degree centigrade warming,0,0,Complex
+Explain the impact of WPI decline on manufacturing.,Boosted growth by reducing input costs for manufacturers.,the share of lowtechnology manufacturing52 has declined over the years,0,0,Complex
+What is the role of private investment in India’s economy?,"Driving GFCF, enhancing infrastructure, and boosting productivity.",catalyse the efforts towards increasing investment to 35 per cent of GDP,0,0,Complex
+What challenges remain in India's financial sector?,"NPA cycles, limited MSME credit, and regulatory hurdles.",low levels of financial inclusion and formal identification,0.594603558,0.125,Complex
